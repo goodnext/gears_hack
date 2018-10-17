@@ -1,2 +1,2 @@
-# outdoor_tool_info
-最新登山グッズ検索用サイト
+# gears hack
+登山グッズ、キャンプグッズ検索用サイト
